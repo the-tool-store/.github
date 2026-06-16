@@ -19,7 +19,7 @@ This organization contains:
 - It means that I will instruct Claude Coding Agent\Agent SDK to perform work, tasks and jobs.
 - I will manage, review and test its output.
 - My instructions include architecture, solution planning and business rules it must follow.
-- Any code I don't understand will still be reviewed and tested through multiple cycles.
+- Any code I don't understand will still be reviewed and tested through multiple cycles until I am confident in its functionality.
 
 ### How is this different from using AI to build a project?
 
