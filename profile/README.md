@@ -1,3 +1,19 @@
+<div align="center">
+
+# Live Development Notice
+
+This GitHub organization is an active research and development workspace.
+
+**Live experiments, prototype implementations, and ongoing design efforts are conducted here.**
+
+Repository structures, code, documentation, configuration presets, project organization, and APIs may change at any time without prior notice as development evolves.
+
+**Unless explicitly marked as stable, all repositories should be considered experimental and subject to breaking changes, reorganization, or removal.**
+
+</div>
+
+---
+
 ## The Tool Store is a place for software tools and solutions.
 
 This organization contains:
